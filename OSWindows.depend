@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1712928530 source:c:\users\dell\downloads\guia4_laboratorio-katherine\oswindows\main.cpp
+	<iostream>
+	"OSWindows.h"
+
+1712928530 c:\users\dell\downloads\guia4_laboratorio-katherine\oswindows\include\oswindows.h
+	<stdio.h>
+	<windows.h>
+	<iostream>
+	<string.h>
+	"iApariencia.h"
+
+1712928530 c:\users\dell\downloads\guia4_laboratorio-katherine\oswindows\include\iapariencia.h
+
+1712928530 source:c:\users\dell\downloads\guia4_laboratorio-katherine\oswindows\src\iapariencia.cpp
+	"iApariencia.h"
+
+1712928530 source:c:\users\dell\downloads\guia4_laboratorio-katherine\oswindows\src\oswindows.cpp
+	"OSWindows.h"
+
